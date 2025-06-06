@@ -32,9 +32,8 @@ Render a MuseScore file to a video file
   - `webcolors`
   - If you want faster rendering, you can install `torch` following the instructions at [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 
----
-
 Extra requirements for the UI version:
+
 - `PySide6`
 - `psutil`
 - `torch`
